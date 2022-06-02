@@ -1,6 +1,6 @@
 # Windows-API-Code-Pack-1.1.6
 
-[![Version](https://img.shields.io/nuget/v/Microsoft-Windows10-APICodePack-Core.svg?style=flat-square)](https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core) [![Downloads](https://img.shields.io/nuget/dt/Microsoft-Windows10-APICodePack-Core.svg?style=flat-square)]([https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core](https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core)) |
+[![Version](https://img.shields.io/nuget/v/Microsoft-Windows10-APICodePack-Core.svg?style=flat-square)](https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core) [![Downloads](https://img.shields.io/nuget/dt/Microsoft-Windows10-APICodePack-Core.svg?style=flat-square)]([https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core](https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core))
 
 ## README
 
