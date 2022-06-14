@@ -14,11 +14,11 @@ Now with added .NET5.0 support ! (windows only)
 
 [v1.1.6] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Shell/1.1.6
 
-https://www.nuget.org/packages/Microsoft-WindowsAPICodePack-ShellExtensions/
+[v1.1.6] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-ShellExtensions/1.1.6
 
-https://www.nuget.org/packages/Microsoft-WindowsAPICodePack-ExtendedLinguisticServices/
+[v1.1.6] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-ExtendedLinguisticServices/1.1.6
 
-https://www.nuget.org/packages/Microsoft-WindowsAPICodePack-Sensors/
+[v1.1.6] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Sensors/1.1.6
 
 ## Licence
 
