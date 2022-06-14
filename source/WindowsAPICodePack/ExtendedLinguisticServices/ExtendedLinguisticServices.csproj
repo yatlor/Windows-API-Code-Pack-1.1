@@ -2,7 +2,7 @@
 <Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
   <PropertyGroup>
     <AssemblyName>Microsoft.WindowsAPICodePack.ExtendedLinguisticServices</AssemblyName>
-    <PackageId>Microsoft-WindowsAPICodePack-ExtendedLinguisticServices</PackageId>
+    <PackageId>Microsoft-Windows10-APICodePack-ExtendedLinguisticServices</PackageId>
     <Version>1.1.6</Version>
     <VersionPrefix>1.1.6</VersionPrefix>
     <Title>$(AssemblyName)</Title>
