@@ -1,4 +1,4 @@
-# Windows-API-Code-Pack-1.1.6
+# Windows-API-Code-Pack-1.1.7
 
 [![Version](https://img.shields.io/nuget/v/Microsoft-Windows10-APICodePack-Core.svg?style=flat-square)](https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core) [![Downloads](https://img.shields.io/nuget/dt/Microsoft-Windows10-APICodePack-Core.svg?style=flat-square)]([https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core](https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core))
 
@@ -6,19 +6,19 @@
 
 This is a fork of the Microsoft © Windows API Code Pack, based on a repository created by [Aybe](https://github.com/aybe/Windows-API-Code-Pack-1.1). Due to the lack of updates to the original package, this fork was created to include all open pull requests on the original repository, apply fixes and add support for all current .NET Framework and .NET Core versions.
 
-Now with added .NET5.0 support ! (windows only)
+Now with added net5.0-windows & net6.0-windows support.
 
 ## NuGet packages (recommended)
 
-[v1.1.6] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core/1.1.6
+[v1.1.7] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core/1.1.7
 
-[v1.1.6] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Shell/1.1.6
+[v1.1.7] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Shell/1.1.7
 
-[v1.1.6] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-ShellExtensions/1.1.6
+[v1.1.7] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-ShellExtensions/1.1.7
 
-[v1.1.6] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-ExtendedLinguisticServices/1.1.6
+[v1.1.7] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-ExtendedLinguisticServices/1.1.7
 
-[v1.1.6] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Sensors/1.1.6
+[v1.1.7] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Sensors/1.1.7
 
 ## Licence
 
