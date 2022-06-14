@@ -10,9 +10,9 @@ Now with added .NET5.0 support ! (windows only)
 
 ## NuGet packages (recommended)
 
-https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core/1.1.6
+[v1.1.6] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Core/1.1.6
 
-https://www.nuget.org/packages/Microsoft-WindowsAPICodePack-Shell/
+[v1.1.6] https://www.nuget.org/packages/Microsoft-Windows10-APICodePack-Shell/1.1.6
 
 https://www.nuget.org/packages/Microsoft-WindowsAPICodePack-ShellExtensions/
 
