@@ -2,30 +2,30 @@
 <Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
   <PropertyGroup>
     <AssemblyName>Microsoft.WindowsAPICodePack.Sensors</AssemblyName>
-    <PackageId>Microsoft-Windows10-APICodePack-Sensors</PackageId>
+    <PackageId>MFW-APICodePack-Sensors</PackageId>
     <Version>1.1.8</Version>
     <VersionPrefix>1.1.8</VersionPrefix>
     <Title>$(AssemblyName)</Title>
-    <Authors>rpastric;contre;dahall;bau-global</Authors>
+    <Authors>rpastric;contre;dahall;bau-global;yatlor</Authors>
     <Company>Microsoft</Company>
     <Product>Microsoft Windows API Code Pack for .NET Framework</Product>
-    <PackageProjectUrl>https://github.com/bau-global/Windows-API-Code-Pack-1.1</PackageProjectUrl>
+    <PackageProjectUrl>https://github.com/yatlor/Windows-API-Code-Pack-1.1</PackageProjectUrl>
     <PackageRequireLicenseAcceptance>false</PackageRequireLicenseAcceptance>
     <Description>The Core code for the WindowsAPICodePack. This is an updated version containing all available bug fixes for this code as of 2020-04-09.</Description>
-    <PackageReleaseNotes>https://github.com/bau-global/Windows-API-Code-Pack-1.1/blob/master/CHANGELOG.md</PackageReleaseNotes>
+    <PackageReleaseNotes>https://github.com/yatlor/Windows-API-Code-Pack-1.1/blob/master/CHANGELOG.md</PackageReleaseNotes>
     <Copyright>Copyright © 2022</Copyright>
     <NeutralLanguage>en-US</NeutralLanguage>
     <IncludeSymbols>true</IncludeSymbols>
     <SymbolPackageFormat>snupkg</SymbolPackageFormat>
-    <PackageTags>Microsoft,Windows10,APICodePack,netcore31,net47,net472,net48,net5.0,net6.0</PackageTags>
-    <TargetFrameworks>net47;net472;net48;netcoreapp3.1;net5.0-windows;net6.0-windows</TargetFrameworks>
+    <PackageTags>Microsoft,Windows10,APICodePack,netcore31,net4,net47,net472,net48,net5.0,net6.0</PackageTags>
+    <TargetFrameworks>net4;net47;net472;net48;netcoreapp3.1;net5.0-windows;net6.0-windows</TargetFrameworks>
     <UseWindowsForms>true</UseWindowsForms>
     <LangVersion>latest</LangVersion>
     <RootNamespace>Microsoft.WindowsAPICodePack.Sensors</RootNamespace>
     <DocumentationFile>..\bin\$(Configuration)\$(TargetFramework)\$(AssemblyName).xml</DocumentationFile>
     <SignAssembly>true</SignAssembly>
     <AssemblyOriginatorKeyFile>ProjectSignKey.snk</AssemblyOriginatorKeyFile>
-    <RepositoryUrl>https://github.com/bau-global/Windows-API-Code-Pack-1.1</RepositoryUrl>
+    <RepositoryUrl>https://github.com/yatlor/Windows-API-Code-Pack-1.1</RepositoryUrl>
     <RepositoryType>.git</RepositoryType>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
     <PackageIcon>icon.png</PackageIcon>
